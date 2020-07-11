@@ -79,3 +79,16 @@ state (Bundesland)
 - 8 = Schleswig-Holstein
 - 9 = Sachsen-Anhalt
 - 10 = Niedersachsen
+
+relation
+- 1 = Partei
+- 2 = Geschäftsführer/ Vorstand
+- 3 = Professor/in
+- 4 = Direktor/in
+- 5 = Präsident/in
+- 6 = Vertreter/in
+- 7 = Beirat
+- 8 = Bürgermeister/in
+- 9 = Verband
+- 10 = Mitglied
+- 11 = Bundestagsabgeordnete/r

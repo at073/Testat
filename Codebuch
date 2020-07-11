@@ -1,2 +1,64 @@
 Codebuch
 
+ID's
+- Matthias Platzeck = MP
+- Ronald Pofalla = RP
+- Barbara Praetorius = BP
+- Stanislaw Tillich = ST
+- Gerda Hasselfeldt = GH
+- Steffen Kampeter = SKAM
+- Stefan Kapferer = SKAPF
+- Dieter Kempf = DK
+- Claudia Nemat = CN
+- Katherina Reiche = KR
+- Gunda Röstel = GR
+- Eric Schweitzer = ES
+- Antje Grothus = AG
+- Hannelore Wodtke = HW
+- Christine Herntier = CH
+- Michael Kreuzberg = MK
+- Reiner Priggen = RPRIG
+- Michael Vassiliadis = MV
+
+
+type
+- 0 = person
+- 1 = organization
+
+sex
+- 1 = weiblich
+- 2 = männlich
+
+age
+- 1 = 30-40 Jahre alt
+- 2 = 40-50 Jahre alt
+- 3 = 50-60 Jahre alt
+- 4 = 60-70 Jahre alt
+
+party(Mitgliedschaft in politischer Partei)
+- 1 = SPD
+- 2 = CDU/CSU
+- 3 = FDP
+- 4 = Die Grünen
+- 5 =
+
+representation 
+- 1 = Politik
+- 2 = Wirtschaft
+- 3 = Gewerkschaft
+- 4 = Umwelt
+- 5 = Regionen
+- 6 = Wissenschaft
+
+position 
+- 1 = Vorsitz
+- 2 = Mitglied
+- 3 = kein Stimmrecht
+
+state (Bundesland)
+- 1 = Brandenburg
+- 2 = NRW
+- 3 = Berlin
+- 4 = Sachsen
+- 5 = Bayern
+- 6 = Rheinland-Pfalz

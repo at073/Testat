@@ -51,7 +51,7 @@ age
 - 4 = 60-70 Jahre alt
 - 5 = 70-80 Jahre alt
 
-party(Mitgliedschaft in politischer Partei)
+party (Mitgliedschaft in politischer Partei)
 - 1 = SPD
 - 2 = CDU/CSU
 - 3 = FDP
@@ -96,6 +96,7 @@ relation
 - 9 = Verband
 - 10 = Mitglied
 - 11 = Bundestagsabgeordnete/r
+- 12 = enger Vertrauter
 
 time 
 - 0 = weniger als 1 Jahr

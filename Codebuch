@@ -1,5 +1,7 @@
 Codebuch
 
+Nodelist
+
 ID's
 - Matthias Platzeck = MP
 - Ronald Pofalla = RP
@@ -80,6 +82,8 @@ state (Bundesland)
 - 9 = Sachsen-Anhalt
 - 10 = Niedersachsen
 
+Edgelist
+
 relation
 - 1 = Partei
 - 2 = Geschäftsführer/ Vorstand
@@ -92,3 +96,8 @@ relation
 - 9 = Verband
 - 10 = Mitglied
 - 11 = Bundestagsabgeordnete/r
+
+time 
+- 1 = 1-5 Jahre
+- 2 = 5-10 Jahre
+- 3 = mehr als 10 Jahre 

@@ -87,8 +87,8 @@ Edgelist
 relation
 - 1 = Partei
 - 2 = Geschäftsführer/ Vorstand
-- 3 = Professor/in
-- 4 = Direktor/in
+- 3 = Professor/ Direktor
+- 4 = Vorsitzende/r
 - 5 = Präsident/in
 - 6 = Vertreter/in
 - 7 = Beirat
@@ -98,6 +98,7 @@ relation
 - 11 = Bundestagsabgeordnete/r
 
 time 
+- 0 = weniger als 1 Jahr
 - 1 = 1-5 Jahre
 - 2 = 5-10 Jahre
 - 3 = mehr als 10 Jahre 

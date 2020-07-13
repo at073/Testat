@@ -57,12 +57,12 @@ MCK,McKinsey,1,NA,NA,NA,2,NA,NA
 VKU,Verband Kommunaler Unternehmen,1,NA,NA,NA,2,NA,NA
 SED,Stadtentwässerung Dresden,1,NA,NA,NA,5,NA,NA
 ENBW,ENBW,1,NA,NA,NA,2,NA,NA
-GRÜNE,Grüne ,1,NA,NA,4,1,NA,NA
+GRÜNE,Grüne,1,NA,NA,4,1,NA,NA
 DIHT,Deutscher Industrie- und Handwerkskammertag,1,NA,NA,NA,2,NA,NA
 EA,Entsorgungskonzern Alba,1,NA,NA,NA,2,NA,NA
-IBFB,"Initiative ""Buirer für Buir""",1,NA,NA,NA,5,NA,NA
+IBFB,"Initiative "Buirer für Buir",1,NA,NA,NA,5,NA,NA
 KWSB,"Kommission für Wachstum, Strukturwandel und Beschäftigung",1,NA,NA,NA,1,NA,NA
-GZW,Grüne Zukunft Welzow ,1,NA,NA,NA,5,NA,NA
+GZW,Grüne Zukunft Welzow,1,NA,NA,NA,5,NA,NA
 NWBG,Netzwerk Bergbaugeschädigte,1,NA,NA,NA,3,NA,NA
 ST,Spremberger Tuche,1,NA,NA,NA,5,NA,NA
 REK,Rhein-Erft-Kreis,1,NA,NA,NA,5,NA,NA
@@ -72,7 +72,7 @@ VERDI,Verdi,1,NA,NA,NA,3,NA,NA
 EON,Energiekonzern Eon,1,NA,NA,NA,3,NA,NA
 DGB,Deutscher Gewerkschaftsbund,1,NA,NA,NA,3,NA,NA
 GP,Greenpeace,1,NA,NA,NA,4,NA,NA
-BUND,Bund für Umwelt und Naturschutz Deutschland ,1,NA,NA,NA,4,NA,NA
+BUND,Bund für Umwelt und Naturschutz Deutschland,1,NA,NA,NA,4,NA,NA
 RNE,Rat für Nachhaltige Entwicklung,1,NA,NA,NA,4,NA,NA
 DN,Deutschen Naturschutzakademie,1,NA,NA,NA,4,NA,NA
 DDA,Dachverband Deutscher Naturschutzring,1,NA,NA,NA,4,NA,NA
